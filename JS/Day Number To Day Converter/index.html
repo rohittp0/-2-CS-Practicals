@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Day Finder</title>
+</head>
+
+<body style="text-align: center;padding: 5%;">
+    <label for="no">Day Number</label>
+    <input type="number" id="no" max="7" min="1" onkeyup="document.getElementById('out').innerHTML = 
+        ['Please enter a valid Day Number.','Sunday','Monday','Tuesday','Wednsday','Thursday','Friday','Saturday']
+        [document.getElementById('no').value > 7 || 
+        document.getElementById('no').value < 1 ? 0 :
+         document.getElementById('no').value ];">
+    <p id="out"></p>
+</body>
+
+</html>
