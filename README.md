@@ -7,7 +7,24 @@ All the resources needed for the practicals are provided here. It includes 10 C+
 
   - **C++**
 
+    - Quardratic Equation
+    - Area of Rectangle, Triagle and Circle
+    - Sum of Digits of an Integer
+    - Sum of First N Numbers
+    - Length of a String
+    - Linear Search
+    - Factorial
+    - Binary Equivalent of a Decimal
+    - Book Structure
+    - Vowels in a String
+
   - **HTML**
+
+    - kerala Tourism
+    - Nobel Laureates
+    - External Linking
+    - Frame Creation
+    - Form Creation
 
   - **JavaScript**
 
@@ -16,7 +33,17 @@ All the resources needed for the practicals are provided here. It includes 10 C+
   
   - **SQL**
 
+    - Student Table
+    - Employe Table
+    - Book Table
+    - Bank Table
+    - Stock Table
+
   - **PHP**
+
+    - Commission
+    - Pattern
+    - Database Connectivity
 
 ## Contact ME
 
